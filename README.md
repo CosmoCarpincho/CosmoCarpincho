@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Welcome to my profile 👋</h1>
 </div>
-<img src="https://i.imgur.com/2TAM6T7.png">
+<img src="https://i.imgur.com/bUI2MMq.png" title="banner" />
 
 ## About me
 
