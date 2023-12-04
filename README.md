@@ -12,4 +12,7 @@
 
  ![CosmoCarpincho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CosmoCarpincho&theme=shades-of-purple&hide_border=true)
 
-#### My recent work 👇
+![CosmoCarpincho](https://github-readme-stats.vercel.app/api/top-langs/?username=CosmoCarpincho&layout=compact&theme=shades-of-purple)
+
+
+
