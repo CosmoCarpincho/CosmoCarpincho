@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Welcome to my profile 👋</h1>
+</div>
+<img src="https://i.imgur.com/2TAM6T7.png">
 
-<!--
-**CosmoCarpincho/CosmoCarpincho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 🌎 Buenos Aires, Argentina.
+- ⭐ Backend developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Analytics
+
+ ![CosmoCarpincho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CosmoCarpincho&theme=shades-of-purple&hide_border=true)
+
+#### My recent work 👇
